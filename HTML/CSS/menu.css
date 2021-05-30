@@ -1,0 +1,50 @@
+body {
+    background-color: #947761;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+header {
+    color: white;
+}
+
+div.line_2 {
+    position: relative;
+    bottom: -50px;
+}
+
+div.men {
+    border: solid 1px white;
+    background: #ECF0F1;
+    text-align: center;
+    margin: auto;
+    padding: 30px;
+    width: 300px;
+    height: 301px;
+    border-radius: 20px;
+    margin: auto;
+}
+
+input {
+    position: relative;
+    font-size: 20px;
+    width: 70px;
+    height: 45px;
+    bottom: -100px;
+    background: rgb(2, 0, 36);
+    background: radial-gradient(circle, rgba(2, 0, 36, 1) 0%, rgba(255, 250, 115, 1) 0%, rgba(255, 156, 0, 1) 65%);
+}
+
+footer {
+    position: absolute;
+    bottom: -300px;
+}
+
+a:link {
+    color: wheat;
+}
+
+a:visited {
+    color: wheat;
+}

@@ -1,0 +1,19 @@
+img.cof {
+    position: relative;
+    bottom: -100px;
+    width: 400px;
+    height: 330px;
+}
+
+body {
+    background-color: #947761;
+    color: wheat;
+}
+
+a:link {
+    color: wheat;
+}
+
+a:visited {
+    color: wheat;
+}

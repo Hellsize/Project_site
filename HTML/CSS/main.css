@@ -1,0 +1,52 @@
+body {
+    background-color: #947761;
+    color: wheat;
+    position: absolute;
+    height: 880px;
+}
+
+a:link {
+    color: wheat;
+}
+
+a:visited {
+    color: wheat;
+}
+
+div.mains {
+    position: absolute;
+    margin: auto;
+    bottom: 600px;
+    font-size: 20px;
+}
+
+input {
+    color: white;
+    background: url(btnbg.png);
+}
+
+header {
+    position: absolute;
+    top: 0 px;
+    right: 0 px;
+}
+
+img.bg {
+    position: absolute;
+    z-index: -1;
+    bottom: px;
+}
+
+img.cup {
+    position: relative;
+    top: 500px;
+    margin: auto;
+    z-index: -99;
+}
+
+img.bean {
+    position: relative;
+    top: 50px;
+    left: 100px;
+    z-index: -100;
+}

@@ -1,0 +1,31 @@
+body {
+    background-color: #947761;
+    color: wheat;
+}
+
+a:link {
+    color: wheat;
+}
+
+a:visited {
+    color: wheat;
+}
+
+img.main {
+    position: relative;
+    top: 600px;
+}
+
+div.kk {
+    width: 400px;
+}
+
+div.prs {
+    width: 400px;
+}
+
+img.bean {
+    position: relative;
+    top: -400px;
+    left: 400px;
+}

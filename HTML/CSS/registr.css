@@ -1,0 +1,53 @@
+footer {
+    position: absolute;
+    bottom: 0vh;
+}
+
+body {
+    background-color: #947761;
+    color: wheat;
+}
+
+div.okno {
+    border: 1px solid wheat;
+    background: #726C51;
+    margin: auto;
+    border-radius: 13px;
+    position: relative;
+    left: 350px;
+    top: 20px;
+    width: 450px;
+    height: 475px;
+    padding: 40px;
+    text-align: center;
+}
+
+input {
+    margin: 10px 0px 0px 10px;
+}
+
+img.m_png {
+    position: relative;
+    left: 850px;
+    bottom: 60px;
+    width: 64px;
+    height: 64px;
+}
+
+img.sc {
+    width: 64px;
+    height: 64px;
+}
+
+a:link {
+    color: wheat;
+}
+
+a:visited {
+    color: wheat;
+}
+
+img.cup {
+    position: relative;
+    bottom: 450px;
+}
